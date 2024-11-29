@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Samsul Arifin! 👋
 
-<!--
-**arfnsamsul/arfnsamsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on **iOS App Development** & **Web Development**. My expertise lies in building scalable, maintainable, and high-performing iOS & web applications. I work primarily with **Swift**, **SwiftUI**, **React**, **Next.js**, **TypeScript** and I'm currently exploring **Docker**
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** React, Next.js, TypeScript, Material UI
+- **Mobile:** Swift & SwiftUI (iOS)
+- **Databases:** PostgreSQL, Directus CMS
+- **Version Control:** Git, GitHub
+- **CI/CD & Deployment:** Docker
+- **Other Tools:** XCODE, VSCode, Postman, Figma, Jira
+
+
+## 🧑‍💻 I’m currently learning…
+
+- **NextJS**
+- **Docker:** exploring orchestration of multiple containers.
+- **Web Performance Optimization:** Making applications faster and more efficient.
+
+## 📫 How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/samsul-arifin-416456139/) - Let's connect!
+- Email: [arfn.samsul@gmail.com](mailto:arfn.samsul@gmail.com)
+
+## 💻 LeetCode Stats
+![](https://leetcard.jacoblin.cool/arfnsamsul)
+
+---
+
+Thanks for stopping by! Feel free to reach out if you'd like to collaborate. Happy coding! 🚀
